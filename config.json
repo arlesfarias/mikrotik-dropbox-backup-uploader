@@ -1,0 +1,18 @@
+{
+    "dropboxKey": "put you key here",
+    "routers": [{
+            "name": "Router 1",
+            "host": "192.168.0.1",
+            "port": 22,
+            "usr": "usr1",
+            "pwd": "pwd1"
+        },
+        {
+            "name": "Router 2",
+            "host": "192.168.0.2",
+            "port": 22,
+            "usr": "usr2",
+            "pwd": "pwd2"
+        }
+    ]
+}
